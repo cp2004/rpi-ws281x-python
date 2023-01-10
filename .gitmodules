@@ -1,4 +1,4 @@
 [submodule "library/lib"]
 	path = library/lib
-	url = https://github.com/jgarff/rpi_ws281x/
-	branch = master
+	url = https://github.com/cp2004/rpi_ws281x/
+	branch = spi1
